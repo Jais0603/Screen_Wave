@@ -37,4 +37,4 @@ To explore the Movie Ticket Booking App prototype, follow these steps:
 
 ## Feedback and Support
 
-We welcome any feedback, suggestions, or inquiries regarding the Movie Ticket Booking App. Please feel free to reach out to us via [email/contact form/link to support].
+We welcome any feedback, suggestions, or inquiries regarding the Movie Ticket Booking App. Please feel free to reach out to us via jaiswalsakshi7890@gmail.com.
